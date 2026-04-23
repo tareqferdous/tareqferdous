@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:1D9E75&height=120&section=header&text=Tareq%20Ferdous&fontSize=36&fontColor=ffffff&fontAlignY=65&desc=Full%20Stack%20Developer&descAlignY=85&descSize=16&descColor=d1fae5" />
+# Tareq Ferdous
+
+### Full Stack Developer · MERN · Next.js · TypeScript
 
 </div>
 
@@ -103,7 +105,5 @@ I'm a **Full Stack Developer** from Bangladesh, currently building production-re
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:0f6e56&height=80&section=footer" />
-
+<sub>Open to opportunities · Bangladesh 🇧🇩</sub>
 </div>
