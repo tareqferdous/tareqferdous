@@ -1,28 +1,109 @@
-<h1 align="center">Hi, I'm Tareq Ferdous</h1>
-<h3 align="center">A Passionate Frontend Developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tareqferdous&label=Profile%20views&color=0e75b6&style=flat" alt="tareqferdous" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:1D9E75&height=120&section=header&text=Tareq%20Ferdous&fontSize=36&fontColor=ffffff&fontAlignY=65&desc=Full%20Stack%20Developer&descAlignY=85&descSize=16&descColor=d1fae5" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tareqferdous" alt="tareqferdous" /></a> </p>
+</div>
 
-- 🌱 I’m currently learning **Node Js, Redux, Express Js**
+<div align="center">
 
-- 👨‍💻 All of my projects are available at [github.com/tareqferdous?tab=repositories](github.com/tareqferdous?tab=repositories)
+**I build production-grade web apps — from database schema to deployed UI.**
 
-- 📫 How to reach me **tareqferdous10@gmail.com**
+[![Profile Views](https://komarev.com/ghpvc/?username=tareqferdous&color=1D9E75&style=flat&label=Profile+Views)](https://github.com/tareqferdous)
+[![Email](https://img.shields.io/badge/Email-tareqferdous10%40gmail.com-1D9E75?style=flat&logo=gmail&logoColor=white)](mailto:tareqferdous10@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yoPRBmas1JsXbB3XM5GmLxIAR57XQlJy/view?usp=sharing](https://drive.google.com/file/d/1yoPRBmas1JsXbB3XM5GmLxIAR57XQlJy/view?usp=sharing)
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/tareq.ferdos.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="Tareq Ferdous" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+## About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tareqferdous&show_icons=true&locale=en&layout=compact" alt="tareqferdous" /></p>
+I'm a **Full Stack Developer** from Bangladesh, currently building production-ready apps with the **MERN stack + Next.js + TypeScript**. I care about clean architecture, type safety, and shipping things that actually work.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tareqferdous&show_icons=true&locale=en" alt="tareqferdous" /></p>
+- 🔭 Latest build: **AgroLink** — a full-stack agricultural marketplace solving the middleman problem for Bangladeshi farmers
+- ⚙️ Currently deepening: **Next.js App Router · TypeScript · PostgreSQL · Stripe integrations**
+- 📐 Interested in: system design, role-based auth flows, and real-world payment handling
+- 📄 Resume: [View CV](https://drive.google.com/file/d/1yoPRBmas1JsXbB3XM5GmLxIAR57XQlJy/view?usp=sharing)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tareqferdous&" alt="tareqferdous" /></p>
+---
+
+## Tech Stack
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+
+**Database & ORM**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)
+
+**Tools & Infra**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
+
+---
+
+## Featured Project
+
+### 🌾 AgroLink — Agricultural Market Linkage Platform
+
+> Bangladesh has 16M+ farming households. A multi-layer middleman system captures 60–80% of value between farm and market. AgroLink cuts them out entirely.
+
+**What it does:**
+- Farmers list crops → multiple buyers compete with bids → farmer picks the best offer
+- Stripe collects payment **upfront** before delivery — farmers can't be cheated
+- Payment releases to farmer wallet only after buyer confirms receipt
+- Full admin panel: listing approvals, order monitoring, refund management, analytics dashboard
+
+**Stack:** `Next.js 16` · `TypeScript` · `Express.js` · `PostgreSQL (Neon)` · `Prisma` · `Stripe` · `Better Auth` · `Zod` · `Vercel`
+
+**Key engineering challenges solved:**
+- `acceptBid` — 5 atomic DB operations using `prisma.$transaction()` (accept bid, reject others, close listing, create order, trigger emails)
+- Stripe `return_url` payment confirmation flow — handling charge before order state sync
+- RBAC with per-route ownership checks across 3 roles (Farmer / Buyer / Admin)
+
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/tareqferdous)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tareqferdous&show_icons=true&hide_border=true&count_private=true&theme=vue&bg_color=00000000&title_color=1D9E75&icon_color=1D9E75" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tareqferdous&layout=compact&hide_border=true&theme=vue&bg_color=00000000&title_color=1D9E75" height="165" />
+
+<img src="https://streak-stats.demolab.com/?user=tareqferdous&hide_border=true&ring=1D9E75&fire=0f6e56&currStreakLabel=1D9E75" />
+
+</div>
+
+---
+
+## Get In Touch
+
+- 📧 **Email:** [tareqferdous10@gmail.com](mailto:tareqferdous10@gmail.com)
+- 💼 **Resume:** [Google Drive](https://drive.google.com/file/d/1yoPRBmas1JsXbB3XM5GmLxIAR57XQlJy/view?usp=sharing)
+- 👥 **Facebook:** [tareq.ferdos.7](https://fb.com/tareq.ferdos.7/)
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:0f6e56&height=80&section=footer" />
+
+</div>
